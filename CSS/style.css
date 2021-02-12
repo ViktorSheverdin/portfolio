@@ -1,3 +1,24 @@
 body {
-  background-color: rgba(201, 76, 76, 0.3);
+  text-align: center;
+  margin: 0;
+}
+
+.top-container {
+  background-color: #c4f7ff;
+}
+
+/* .top-container {
+}
+
+h1 {
+} */
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 5%;
+  right: 15%;
 }
