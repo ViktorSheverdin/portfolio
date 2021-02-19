@@ -2,16 +2,16 @@ body {
   text-align: center;
   margin: 0;
 }
+h1 {
+  font-size: 4.625rem;
+  margin-top: 50px;
+  font-family: "Sacramento", cursive;
+}
 
 .top-container {
+  margin-top: 50px;
   background-color: #c4f7ff;
 }
-
-/* .top-container {
-}
-
-h1 {
-} */
 
 .bottom-cloud {
   position: absolute;
@@ -21,4 +21,19 @@ h1 {
   position: absolute;
   top: 5%;
   right: 15%;
+}
+
+.avatar-img {
+  height: 300px;
+  width: 300px;
+}
+
+.skill-img {
+  height: 300px;
+  width: 300px;
+}
+
+.title-text {
+  position: relative;
+  top: 4.625rem;
 }
